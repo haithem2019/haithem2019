@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Haytham 👋
 
-<!--
-**haithem2019/haithem2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps & Kubernetes Platform Engineer** — 7 years running production infrastructure
+for public-sector, healthcare and e-commerce clients.
 
-Here are some ideas to get you started:
+### What I work with
+- **Kubernetes**: GitOps with Flux, Helm, Kustomize, Harbor, Trivy, Falco, Sealed Secrets
+- **Automation & CI/CD**: Ansible, AWX, GitLab CI, GitHub Actions
+- **On-prem & private cloud**: VMware vCloud Director / NSX-T, Proxmox, KVM
+- **Observability**: Prometheus, Grafana, Loki, ELK, Zabbix
+- **Linux & web stack**: Debian/Ubuntu/RHEL, Nginx, PostgreSQL, MariaDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Migrating a multi-tenant hosting platform to Kubernetes (GitOps with Flux)
+- Preparing AWS Solutions Architect – Associate
+
+📫 [LinkedIn](https://www.linkedin.com/in/haytham-hammami/)
